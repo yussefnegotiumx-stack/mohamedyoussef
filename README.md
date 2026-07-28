@@ -7,15 +7,6 @@
     alt="Mohamed Youssef — Élève ingénieur en Génie Financier"
   />
 </p>
-<!-- Bannière SVG personnalisée -->
-
-<p align="center">
-  <img
-    src="./assets/MohamedYoussef-finance-banner.svg"
-    width="100%"
-    alt="Bannière professionnelle de Mohamed Youssef"
-  />
-</p>
 <!-- ===================================================== -->
 <!-- PRÉSENTATION ANIMÉE                                    -->
 <!-- ===================================================== -->
