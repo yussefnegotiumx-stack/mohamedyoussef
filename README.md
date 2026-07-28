@@ -1,18 +1,20 @@
-<!-- Bannière animée -->
+<!-- Bannière principale -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3C5D,50:146C94,100:19A7CE&height=220&section=header&text=Kamal%20Efem&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Élève%20Ingénieur%20en%20Génie%20Financier%20%40%20EMSI&descAlignY=58&descSize=20"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3C5D,50:146C94,100:19A7CE&height=220&section=header&text=Mohamed%20Youssef&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%C3%89l%C3%A8ve%20Ing%C3%A9nieur%20en%20G%C3%A9nie%20Financier%20%40%20EMSI&descAlignY=58&descSize=20"
     width="100%"
-    alt="Bannière de profil"
+    alt="Bannière de Mohamed Youssef"
   />
 </p>
 
-<!-- Texte animé -->
+<!-- Présentation animée -->
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Century+Gothic&weight=600&size=22&pause=1200&color=146C94&center=true&vCenter=true&width=850&lines=Modélisation+quantitative+et+finance+d'entreprise;Actuariat+et+gestion+des+risques+financiers;Optimisation+multi-objectif+et+aide+à+la+décision;Data+Science+appliquée+à+la+finance"
-    alt="Présentation animée"
-  />
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=22&pause=1200&color=146C94&center=true&vCenter=true&width=900&lines=Mod%C3%A9lisation+quantitative+et+finance+d%27entreprise;Actuariat+et+gestion+des+risques+financiers;Optimisation+multi-objectif+et+aide+%C3%A0+la+d%C3%A9cision;Data+Science+appliqu%C3%A9e+%C3%A0+la+finance"
+      alt="Présentation animée"
+    />
+  </a>
 </p>
 
 <p align="center">
