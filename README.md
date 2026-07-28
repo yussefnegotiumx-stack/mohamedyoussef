@@ -5,7 +5,7 @@
     src="./assets/MohamedYoussef-finance-banner.svg"
     width="100%"
     alt="Mohamed Youssef — Élève ingénieur en Génie Financier"
-  />
+  /> 
 </p>
 <!-- ===================================================== -->
 <!-- PRÉSENTATION ANIMÉE                                    -->
