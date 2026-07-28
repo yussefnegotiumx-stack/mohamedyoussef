@@ -76,7 +76,7 @@
     <text x="0" y="62" fill="#FFFFFF"
       font-family="Segoe UI, Arial, sans-serif"
       font-size="60" font-weight="750" letter-spacing=".2"
-      clip-path="url(#nameReveal)">Kamal Efem</text>
+      clip-path="url(#nameReveal)">Mohamed Youssef </text>
 
     <rect x="1" y="82" width="92" height="4" rx="2" fill="#77E6D7">
       <animate attributeName="width" values="0;92;92" keyTimes="0;.72;1" dur="2.5s" fill="freeze"/>
