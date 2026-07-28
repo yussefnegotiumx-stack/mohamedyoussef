@@ -64,9 +64,9 @@
   <g transform="translate(76 67)" filter="url(#shadow)">
     <rect width="84" height="84" rx="22" fill="#071B2A" fill-opacity=".62"
       stroke="#9CF3E8" stroke-opacity=".42"/>
-    <path d="M24 22V62M24 44L52 22M36 40L58 62"
-      fill="none" stroke="#E9FFFC" stroke-width="6"
-      stroke-linecap="round" stroke-linejoin="round"/>
+   <path d="M20 62V22L41 47L62 22V62"
+  fill="none" stroke="#E9FFFC" stroke-width="6"
+  stroke-linecap="round" stroke-linejoin="round"/>
     <circle cx="64" cy="20" r="4" fill="#7FE7DC">
       <animate attributeName="opacity" values=".25;1;.25" dur="2.8s" repeatCount="indefinite"/>
     </circle>
