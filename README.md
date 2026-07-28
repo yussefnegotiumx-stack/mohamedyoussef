@@ -1,31 +1,52 @@
-<!-- Bannière principale -->
+<!-- ===================================================== -->
+<!-- BANNIÈRE PRINCIPALE                                    -->
+<!-- ===================================================== -->
+
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3C5D,50:146C94,100:19A7CE&height=220&section=header&text=Mohamed%20Youssef&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%C3%89l%C3%A8ve%20Ing%C3%A9nieur%20en%20G%C3%A9nie%20Financier%20%40%20EMSI&descAlignY=58&descSize=20"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3C5D,50:146C94,100:19A7CE&height=220&section=header&text=Mohamed%20Youssef&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=%C3%89l%C3%A8ve%20Ing%C3%A9nieur%20en%20G%C3%A9nie%20Financier%20%40%20EMSI&descAlignY=58&descSize=20"
     width="100%"
-    alt="Bannière de Mohamed Youssef"
+    alt="Bannière professionnelle de Mohamed Youssef"
   />
 </p>
 
-<!-- Présentation animée -->
+<!-- ===================================================== -->
+<!-- PRÉSENTATION ANIMÉE                                    -->
+<!-- ===================================================== -->
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=22&pause=1200&color=146C94&center=true&vCenter=true&width=900&lines=Mod%C3%A9lisation+quantitative+et+finance+d%27entreprise;Actuariat+et+gestion+des+risques+financiers;Optimisation+multi-objectif+et+aide+%C3%A0+la+d%C3%A9cision;Data+Science+appliqu%C3%A9e+%C3%A0+la+finance"
-      alt="Présentation animée"
+      src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=22&duration=3200&pause=1000&color=146C94&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=950&height=55&lines=Mod%C3%A9lisation+quantitative+et+finance+d%27entreprise;Actuariat+et+gestion+des+risques+financiers;Optimisation+multi-objectif+et+aide+%C3%A0+la+d%C3%A9cision;Data+Science+appliqu%C3%A9e+%C3%A0+la+finance"
+      alt="Domaines de spécialisation de Mohamed Youssef"
     />
   </a>
 </p>
 
+<!-- ===================================================== -->
+<!-- LIENS PROFESSIONNELS                                   -->
+<!-- ===================================================== -->
+
 <p align="center">
-  <a href="www.linkedin.com/in/mohamed-youssef-915796250">
-    <img src="https://img.shields.io/badge/LinkedIn-Connexion-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/mohamed-youssef-915796250/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Connexion-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="Profil LinkedIn de Mohamed Youssef"
+    />
   </a>
-  <a href="yussefnegotiumx@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/>
+
+  <a href="mailto:yussefnegotiumx@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Contacter Mohamed Youssef par e-mail"
+    />
   </a>
+
   <a href="https://github.com/yussefnegotiumx-stack">
-    <img src="https://img.shields.io/badge/GitHub-Profil-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img
+      src="https://img.shields.io/badge/GitHub-Profil-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="Profil GitHub de Mohamed Youssef"
+    />
   </a>
 </p>
 
@@ -35,9 +56,9 @@
 
 Je suis **élève ingénieur en Génie Financier à l’EMSI**, spécialisé dans la **modélisation quantitative**, l’**actuariat**, la **finance d’entreprise** et l’**analyse des risques financiers**.
 
-Porté par une expertise en modélisation quantitative et une vision stratégique de la finance d’entreprise, je m’intéresse à la conception de solutions permettant de transformer les données en recommandations fiables et exploitables.
+Porté par une solide approche quantitative et une vision stratégique de la finance d’entreprise, je m’intéresse à la conception de solutions capables de transformer les données financières en recommandations fiables, interprétables et directement exploitables par les décideurs.
 
-J’associe :
+Mon profil associe :
 
 - la rigueur analytique ;
 - les méthodes quantitatives ;
@@ -46,9 +67,16 @@ J’associe :
 - la data science ;
 - l’analyse financière ;
 - le contrôle de gestion ;
+- la gestion des risques ;
 - l’aide à la décision.
 
-Mon objectif est de développer des outils capables d’accompagner les décideurs dans l’évaluation de la performance, l’allocation des ressources, la maîtrise des risques et l’amélioration de la rentabilité.
+Mon objectif est de développer des outils permettant d’accompagner les organisations dans :
+
+- l’évaluation de la performance ;
+- l’optimisation de l’allocation des ressources ;
+- la maîtrise des risques financiers ;
+- le pilotage de la rentabilité ;
+- l’amélioration de la qualité des décisions budgétaires.
 
 ---
 
@@ -60,7 +88,9 @@ Je travaille actuellement sur le projet suivant :
 
 > **Conception d’un outil d’aide à la décision budgétaire : optimisation multi-objectif et analyse des préférences par utilité additive pour le pilotage de la marge.**
 
-Ce projet vise à développer une application permettant de sélectionner et de prioriser un portefeuille de projets en tenant compte de plusieurs critères :
+Ce projet consiste à concevoir une application intelligente permettant de sélectionner, comparer et prioriser un portefeuille de projets en tenant compte simultanément de plusieurs critères financiers, opérationnels et stratégiques.
+
+### Critères étudiés
 
 - budget disponible ;
 - coût des projets ;
@@ -68,6 +98,7 @@ Ce projet vise à développer une application permettant de sélectionner et de 
 - niveau de risque ;
 - charge de travail ;
 - priorité stratégique ;
+- rentabilité ;
 - préférences du décideur.
 
 ### Objectifs du projet
@@ -77,18 +108,21 @@ Ce projet vise à développer une application permettant de sélectionner et de 
 - Limiter l’exposition aux risques.
 - Comparer différentes stratégies de sélection.
 - Intégrer les préférences du décideur.
+- Identifier les meilleurs compromis entre coût, risque et rentabilité.
 - Fournir des résultats transparents et interprétables.
-- Générer des recommandations pour le pilotage financier.
+- Générer automatiquement des recommandations pour le pilotage financier.
 
 ### Méthodes mobilisées
 
 ```text
 Optimisation multi-objectif
-├── Sac à dos binaire
+│
+├── Modélisation du sac à dos binaire
 ├── Optimisation exacte avec OR-Tools
 ├── Algorithme glouton
+├── Normalisation des critères
 ├── Fonction d’utilité additive
 ├── Priorités lexicographiques
-├── Front de Pareto
+├── Analyse du front de Pareto
 ├── Analyse de sensibilité
 └── Simulation Monte Carlo
