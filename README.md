@@ -1,10 +1,19 @@
+<!-- Bannière SVG personnalisée -->
+
+<p align="center">
+  <img
+    src="./assets/MohamedYoussef-finance-banner.svg"
+    width="100%"
+    alt="Bannière professionnelle de Mohamed Youssef"
+  />
+</p>
 <!-- ===================================================== -->
 <!-- BANNIÈRE PRINCIPALE                                    -->
 <!-- ===================================================== -->
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3C5D,50:146C94,100:19A7CE&height=220&section=header&text=Mohamed%20Youssef&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=%C3%89l%C3%A8ve%20Ing%C3%A9nieur%20en%20G%C3%A9nie%20Financier%20%40%20EMSI&descAlignY=58&descSize=20"
+    src="https://readme-typing-svg.demolab.com/api?type=waving&color=0:0B3C5D,50:146C94,100:19A7CE&height=220&section=header&text=Mohamed%20Youssef&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=%C3%89l%C3%A8ve%20Ing%C3%A9nieur%20en%20G%C3%A9nie%20Financier%20%40%20EMSI&descAlignY=58&descSize=20"
     width="100%"
     alt="Bannière professionnelle de Mohamed Youssef"
   />
